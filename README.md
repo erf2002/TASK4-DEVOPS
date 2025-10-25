@@ -1,0 +1,1 @@
+we can also merge the provider.tf and resource.tf file in to a file name main.tf
